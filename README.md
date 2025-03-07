@@ -8,7 +8,7 @@ In this project, I developed a movie app using React and Vite. The app retrieves
 - Appwrite
 
 ## Deployment
-The app is deployed on Vercel and can be accessed [https://movie-app-react-peach.vercel.app/](https://movie-app-react-peach.vercel.app/).
+The app is deployed on Vercel and can be accessed at [https://movie-app-react-peach.vercel.app/](https://movie-app-react-peach.vercel.app/).
 
 ## Resources Used
 [https://youtu.be/dCLhUialKPQ?si=PHzgeWDuoG78AYfq/](https://youtu.be/dCLhUialKPQ?si=PHzgeWDuoG78AYfq/)
